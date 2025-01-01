@@ -1,0 +1,22 @@
+body{
+    background-color: #dbd8d8;
+}
+
+.container{
+    margin-left: 220px;
+}
+
+.container img{
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+h4{
+    margin-left: 60px;
+}
