@@ -1,0 +1,116 @@
+.brand{
+    width: 90%;
+    height: 500px;
+    display: flex;
+    margin-left: 130px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.brand .imgs{
+    background-color: #e4e0dd;
+    width: 40%;
+    border-radius: 5px;
+}
+
+#firstImg {
+    width: 300px;
+    margin-left: 125px;
+}
+
+.imgsContainer img{
+    background-color: #fff;
+    width: 100px;
+    margin-left: 60px;
+    border: 1px solid#8b8987;;
+    border-radius: 50%;
+}
+
+
+.imgsContainer img:hover{
+    cursor: pointer;
+}
+
+
+.brand .txt{
+        margin-left: 10px;
+}
+
+.brand .txt .gucci{
+    margin-top: 50px;
+    color: #8b8987;
+    font-size: 20px;
+}
+
+.details{
+    font-size: 22px;
+    color: #383737;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.price{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+del{
+    color: #8b8987;
+}
+.stars {
+    display: flex;
+    align-items: center;
+}
+.stars img{
+    width: 40px;
+}
+
+.stars p {
+    color: #8b8987;
+    margin-left: 5px;
+}
+
+.txt2{
+    width: 15%;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 650px;
+    font-weight: bold;
+    background-color: #e4e0dd;
+    border-radius: 8% 92% 63% 37% / 30% 51% 49% 70%;
+    color: #908585;
+}
+
+.video {
+   /* position: relative; */
+   width: fit-content;
+   overflow: hidden;
+   margin-top: 20px;
+   border-radius: 20px;
+   display: flex;
+   overflow: hidden;
+   height: fit-content;
+}
+
+
+video{
+    border-radius: 20px;
+    width: 600px;
+    margin-left: 130px;
+    margin-bottom: 20px;
+    transition: .4s;
+    overflow: hidden;
+    border-radius: 20px;
+    background-color: #bc6b6b;
+   
+}
+
+video:hover{
+    transform: scale(1.01);
+    border-radius: 20px;
+}
+.secondSectionVideos{
+    height: 400px;
+}
+
